@@ -1,7 +1,12 @@
 # userscripts-list
 userscripts that I personally use.
 
+
+**Greasy Fork links*
+
 ### General Browsing
+* [Reddit Search on Google](https://greasyfork.org/en/scripts/381497-reddit-search-on-google)* - Adds a button to search Reddit posts with Google
+
 * [ Katakana Terminator](https://github.com/Arnie97/katakana-terminator) - A browser extension to convert gairaigo (Japanese loan words) back to English
 
 ### Ads
